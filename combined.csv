@@ -1,0 +1,17 @@
+company_name,customer_id,customer_name,invoice_number,date,product_id,quantity,price,name,email,phone
+Firma XYZ,3,Eric Moore,2,2024-05-25,7,3,48.0,router,lejacob@example.org,923-681-4646
+Firma XYZ,3,Eric Moore,2,2024-05-25,17,5,55.0,narty,lejacob@example.org,923-681-4646
+Firma XYZ,92,Valerie Stevens,11,2024-05-02,5,1,40.0,słuchawki,xlowe@example.com,757-943-1579x98346
+Firma XYZ,60,Troy Alexander,3,2024-05-19,16,4,46.0,ochraniacze,nturner@example.net,+1-212-349-3992x430
+Firma XYZ,78,William Velazquez,4,2024-03-26,14,3,11.0,rolki,lisa25@example.net,(765)602-1572x949
+Firma XYZ,33,Steven Jackson,5,2024-07-23,10,4,47.0,pendrive,jeremy07@example.com,481.258.2434
+Firma XYZ,33,Steven Jackson,5,2024-07-23,2,2,47.0,laptop,jeremy07@example.com,481.258.2434
+Firma XYZ,8,Ronald Callahan,6,2024-03-14,5,4,40.0,słuchawki,audrey56@example.com,+1-727-668-2720x085
+Firma XYZ,8,Ronald Callahan,6,2024-03-14,16,2,46.0,ochraniacze,audrey56@example.com,+1-727-668-2720x085
+Firma XYZ,4,Laura Beard,7,2024-06-24,1,2,85.0,telewizor,westdominique@example.org,(291)558-0966
+Firma XYZ,63,Alexis Johnson,8,2024-02-21,9,1,65.0,klawiatura,campbellkatrina@example.org,(311)679-3346
+Firma XYZ,63,Alexis Johnson,8,2024-02-21,7,1,48.0,router,campbellkatrina@example.org,(311)679-3346
+Firma XYZ,63,Alexis Johnson,8,2024-02-21,20,1,14.0,spodnie,campbellkatrina@example.org,(311)679-3346
+Firma XYZ,100,Johnny Franklin,9,2024-01-26,20,2,14.0,spodnie,bankslisa@example.org,(626)681-2730x71696
+Firma XYZ,44,Kimberly Marquez,10,2024-03-14,2,1,47.0,laptop,joseph28@example.net,+1-688-249-5941x6260
+Firma XYZ,44,Kimberly Marquez,10,2024-03-14,9,2,65.0,klawiatura,joseph28@example.net,+1-688-249-5941x6260
